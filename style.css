@@ -1,0 +1,82 @@
+table{
+    width: 100%;
+    height: 98vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+td{
+    width: 5.1%;
+    height: 10%;
+    text-align: center;
+}
+}
+
+.ab{
+    width: 2%;
+    height: 10px;
+    background-color: rgb(250 209 7);
+}
+
+.um{
+    width: 5%;
+    height: 150px;
+    background-color: rgb(250 209 7);
+}
+
+.dois{
+    width: 8%;
+    height: 100px;
+    background-color:rgb(152 127 161);
+}
+
+.cd{
+    padding: 3vb;
+   
+    text-align: justify;
+    width: 5%;
+    background-color: rgb(133 101 146);
+}
+
+.tres{
+    width: 5%;
+    height: 7vh;
+    background-color: rgb(152 127 161);
+
+}
+
+.quatro{
+    width: 5%;
+    height: 30vh;
+    background-color: rgb(250 209 7);
+
+}
+
+.cinco{
+    width: 4%;
+    background-color: rgb(253 124 5);
+
+}
+
+.seis{
+    background-color: rgb(253 124 5);
+
+}
+
+.sete{
+    height: 5vh;
+    background-color: rgb(146, 87, 170)
+}
+
+.oito{
+    height: 8vh;
+    background-color:rgb(250 209 7);
+
+}
+.a{
+    background-color:rgb(158 82 166);
+    width: 1%;
+    text-align: right
+    
+}
+.b{
+    background-color: rgb(127 50 130);
+}
